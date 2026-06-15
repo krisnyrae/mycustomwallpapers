@@ -37,6 +37,6 @@ made by Kris Nyrae, me.
 
 ---
 
-thanks for stopping by
+thanks for stopping by.
 check out my other projects, such as my music and my artist website!
 https://krisnyrae.github.io/web/
